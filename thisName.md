@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: "page"
 title: "This Name"
-permalink: /thisName2/
+permalink: "/thisName2/"
 ---
 
 ### Test this demo
