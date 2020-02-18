@@ -1,6 +1,6 @@
 layout: page
 title: "This Name"
-permalink: /thisName/
+permalink: /thisName2/
 
 
 ### Test this demo
